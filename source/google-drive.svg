@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11037"
+   height="96"
+   width="96"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="google-drive.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="3.4766083"
+     inkscape:cx="44.573763"
+     inkscape:cy="32.868838"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs11039">
+    <linearGradient
+       id="linearGradient11642"
+       y2="1046.1"
+       gradientUnits="userSpaceOnUse"
+       y1="962.62"
+       gradientTransform="matrix(1.15 0 0 1.15 -7.1999 -150.65)"
+       x2="48"
+       x1="48">
+      <stop
+         id="stop3624"
+         style="stop-color:#d6d6d6"
+         offset="0" />
+      <stop
+         id="stop3626"
+         style="stop-color:#eaeaea"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath3009"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3011"
+         style="opacity:.15;fill:#fff"
+         d="m-2 956.36h-96v33.562l96 25.687v-59.25z" />
+    </clipPath>
+    <style
+       id="style2992"
+       type="text/css">
+    .fil2 {fill:#11A861}
+    .fil0 {fill:#3777E3}
+    .fil1 {fill:#FFCF63}
+   </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#outerBackgroundGradient-1"
+       id="linearGradient3071"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.15,0,0,1.15,-7.1999,-150.65)"
+       x1="48"
+       y1="962.62"
+       x2="48"
+       y2="1046.1" />
+    <linearGradient
+       id="outerBackgroundGradient-1">
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="0"
+         id="stop3864-8-6-7" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3866-9-1-0" />
+    </linearGradient>
+    <linearGradient
+       y2="1046.1"
+       x2="48"
+       y1="962.62"
+       x1="48"
+       gradientTransform="matrix(1.15,0,0,1.15,-7.1999,-150.65)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3031"
+       xlink:href="#outerBackgroundGradient-1"
+       inkscape:collect="always" />
+  </defs>
+  <metadata
+     id="metadata11042">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0 -956.36)">
+    <rect
+       id="rect3867"
+       style="fill:url(#linearGradient3031);fill-opacity:1"
+       rx="25"
+       ry="25"
+       height="92"
+       width="92"
+       y="958.35999"
+       x="2" />
+    <g
+       style="fill-rule:evenodd"
+       id="g3007"
+       transform="matrix(5.2019663e-4,0,0,5.2019663e-4,13.5,974.36)">
+      <g
+         id="Livello_x0020_1">
+        <metadata
+           id="CorelCorpID_0Corel-Layer" />
+        <polygon
+           id="polygon2996"
+           points="22194,115341 44385,76894 133156,76894 110963,115341 "
+           class="fil0"
+           style="fill:#3777e3" />
+        <polygon
+           id="polygon2998"
+           points="88772,76894 133156,76894 88772,0 44385,0 "
+           class="fil1"
+           style="fill:#ffcf63" />
+        <polygon
+           id="polygon3000"
+           points="0,76894 22194,115341 66578,38447 44385,0 "
+           class="fil2"
+           style="fill:#11a861" />
+      </g>
+    </g>
+  </g>
+</svg>

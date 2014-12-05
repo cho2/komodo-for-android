@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11037"
+   height="96"
+   width="96"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ridon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="4.9166666"
+     inkscape:cx="52.49587"
+     inkscape:cy="47.879747"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs11039">
+    <linearGradient
+       id="linearGradient11642"
+       y2="1046.1"
+       gradientUnits="userSpaceOnUse"
+       y1="962.62"
+       gradientTransform="matrix(1.15 0 0 1.15 -7.1999 -150.65)"
+       x2="48"
+       x1="48">
+      <stop
+         id="stop3624"
+         style="stop-color:#d6d6d6"
+         offset="0" />
+      <stop
+         id="stop3626"
+         style="stop-color:#eaeaea"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath3009"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3011"
+         style="opacity:.15;fill:#fff"
+         d="m-2 956.36h-96v33.562l96 25.687v-59.25z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata11042">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,-956.36)">
+    <rect
+       id="rect3867"
+       style="fill:#cc0000"
+       rx="25"
+       ry="25"
+       height="92"
+       width="92"
+       y="958.35999"
+       x="2" />
+    <g
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ecf0f1;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       id="text3007"
+       transform="translate(-1.168432,0.1355)">
+      <path
+         d="m 38.074682,1009.4901 0,22.7344 -11.40625,0 0,-56.87501 22.34375,0 c 6.562466,5e-5 11.497357,1.4063 14.804688,4.21875 3.333287,2.81255 4.999952,6.94015 5,12.38281 -4.8e-5,3.17712 -0.83338,5.78128 -2.5,7.8125 -1.640669,2.03125 -4.062541,3.67195 -7.265625,4.92185 l 0,0.1172 c 3.359334,1.0417 5.729123,2.6953 7.109375,4.9609 1.406204,2.2397 2.109328,5.1173 2.109375,8.6329 l 0,4.1796 c -4.7e-5,1.5886 0.208286,3.2032 0.625,4.8438 0.416618,1.6406 1.158805,2.8776 2.226562,3.7109 l 0,1.0938 -11.679687,0 c -1.067746,-0.8594 -1.757849,-2.2526 -2.070313,-4.1797 -0.312535,-1.9531 -0.468785,-3.8021 -0.46875,-5.5469 l 0,-4.0234 c -3.5e-5,-2.9167 -0.71618,-5.1432 -2.148437,-6.6797 -1.406282,-1.5364 -3.541697,-2.3047 -6.40625,-2.3047 l -10.273438,0 m 0,-8.7891 9.84375,0 c 3.255179,10e-5 5.65101,-0.664 7.1875,-1.99214 1.562465,-1.32809 2.343714,-3.34632 2.34375,-6.05469 -3.6e-5,-2.68224 -0.729202,-4.76558 -2.1875,-6.25 -1.458366,-1.51036 -3.737009,-2.26557 -6.835937,-2.26562 l -10.351563,0 0,16.56245"
+         style="font-size:80px;font-weight:bold;fill:#ecf0f1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+         id="path3016"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
